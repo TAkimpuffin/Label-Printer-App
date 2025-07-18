@@ -1,0 +1,3 @@
+([('label_printer',
+   '/Users/kimpuffin/Documents/LabelPrinter/dist/label_printer',
+   'EXECUTABLE')],)

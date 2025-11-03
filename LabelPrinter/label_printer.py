@@ -24,7 +24,7 @@ def generate_label():
 
     tspl = f"""
 SIZE 75 mm,50 mm
-GAP 15 mm,12 mm
+GAP 15 mm,120 mm
 DIRECTION 1
 REFERENCE 0,0
 CLS
